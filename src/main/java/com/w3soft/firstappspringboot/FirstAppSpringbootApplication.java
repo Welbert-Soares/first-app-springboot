@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackageClasses = ControllerFirst.class)
+//@ComponentScan(basePackageClasses = ControllerFirst.class)
 public class FirstAppSpringbootApplication {
 
     public static void main(String[] args) {
